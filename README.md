@@ -12,7 +12,9 @@ Dont get your hopes up!  Be advised that it might not work for your specific ins
 Worked beaut for me though. Chucking it up here so that I don't loose it.  I can't help it if Google finds it and that you have arrived here from Googles results.
 
 
+.
+.
+.
 
-
-"activate office 2010 2013 2016 - no workie" is another found script. THis oine did not work for me.
+"activate office 2010 2013 2016 - no workie" is another found script. This script did not work for me on Office 2013 Pro.
 Is included here as I dont like to chuck things out.
