@@ -12,6 +12,9 @@ Dont get your hopes up!  Be advised that it might not work for your specific ins
 Worked beaut for me though. Chucking it up here so that I don't loose it.  I can't help it if Google finds it and that you have arrived here from Googles results.
 
 
+Microsoft Activation Scripts  (MAS).
+powershell :      irm https://get.activated.win | iex  
+
 .
 
 .
